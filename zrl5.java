@@ -5,6 +5,6 @@ class zrl5
         char ch ='张';
         System.out.printf("%x\n",(int)ch);
         while (ch++>50) ch++;        
-        System.out.printf("%x\n",(int)ch);
+        System.out.printf("%x\t\n",(int)ch);
     }
 }
